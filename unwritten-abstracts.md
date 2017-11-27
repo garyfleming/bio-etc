@@ -1,17 +1,28 @@
+# Unwritten Abstracts
 
-Quality First, Safety Throughout
+This is a list of talks for which I've written an abstract but, for one reason or another, have yet to turn it into a full
+talk. If they've become full talks, they likely appear as their own repos.
+
+Some have appeared in other forms, some have changed into other things, and the list is FAR from complete. There are 
+at least a dozen talks for which I've got an idea but haven't progressed them as far as needing an abstract for them.
+
+
+
+---
+
+## Quality First, Safety Throughout
 
 The traditional software cycle sees work come from analysis, through development, checked for quality by testers, then deployed. However, there are often a number of dysfunctions in this flow. What does our flow look like when we want to deploy constantly? How do we ensure quality from the start, not at the end? More importantly, how do we take our teams from where they are to this new way of thinking while ensuring they feel safe?
 
 ---
 
-Agile Without Ceremony
+## Agile Without Ceremony
 
 Retrospectives. Standups. Sprint Planning. Agile as practiced is fully of ceremonies that people follow to understand their work. The manifesto, however, doesn't mention any of these ceremonies. What would it look like, then, if we did agile without any of the ceremonies? How could we achieve the same goals without the rituals? Let's talk about the value in each of the more common ceremonies, and consider some alternatives. Let's do Agile without Ceremony.
 
 ---
 
-TDD thing
+## TDD thing
 
 "How can you write the tests BEFORE the thing you're testing? Madness."
 
@@ -23,7 +34,7 @@ Short bio: Gary is a software craftsmanship and agile consultant, with years of 
 
 ---
 
-The Board Whisperer
+## The Board Whisperer
 
 At this point in Agile's lifecycle, many teams have switched to using a Kanban Board. Some are simple, three-column trackers; others are considerably more involved. Yet, many teams don't know how to stop for a moment and _listen_ to their board. It's gently trying to nudge them about the changes that it needs to make them a better team. Come along and learn how we can go from simple to just complicated enough, smoothly.
 
