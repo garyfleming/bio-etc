@@ -3,7 +3,7 @@
 This is a list of talks for which I've written an abstract but, for one reason or another, have yet to turn it into a full
 talk. If they've become full talks, they likely appear as their own repos.
 
-Some have appeared in other forms, some have changed into other things, and the list is FAR from complete. There are 
+Some have appeared in other forms, some have changed into other things, and the list is FAR from complete. There are
 at least a dozen talks for which I've got an idea but haven't progressed them as far as needing an abstract for them.
 
 
@@ -39,3 +39,9 @@ Short bio: Gary is a software craftsmanship and agile consultant, with years of 
 At this point in Agile's lifecycle, many teams have switched to using a Kanban Board. Some are simple, three-column trackers; others are considerably more involved. Yet, many teams don't know how to stop for a moment and _listen_ to their board. It's gently trying to nudge them about the changes that it needs to make them a better team. Come along and learn how we can go from simple to just complicated enough, smoothly.
 
 In a new team, we started with a three-column standard to something that fits us perfectly. Our board won't work for you, but by learning how, when, and why we made our changes, you can make a board that works perfectly for your team too. See the patterns and anti-patterns; listen to the change that your board is crying out for; and enjoy the results.
+
+---
+
+# The Sleeping Hero
+
+NOTE AN ABSTRACT YET, JUST AN IDEA: "Be a hero? I'd rather sleep." Talk about hero culture, firefighting, and why boring is better. It lets us focus on the things that matter (customers, interactions value) rather than worry about the technology.
