@@ -42,6 +42,18 @@ In a new team, we started with a three-column standard to something that fits us
 
 ---
 
+## Beyond Gherkin
+
+After we've had our conversations, Gherkin has been the structure we've used to capture our needs for automation for quite some time. Gherkin isn't going anywhere but perhaps there are other forms we can use to capture conversations that are closer to how we had the conversations. Could we digitise our example mapping cards? Could we use mind maps? What other formats could we use to take us beyond Gherkin?
+
+---
+
+## WORKING TITLE: The Effective but Lazy Meetup/Guided Conversations
+
+NOT AN ABSTRACT YET, JUST AN IDEA: Guided Conversations helped us have effective meetups that were easy to organise and lazy. Talk about Guided Conversations: the where they came from, why, how they work, strengths, weaknesses etc. Maybe talk about other things we've learned to about running meetups and organisation.
+
+---
+
 # The Sleeping Hero
 
 NOTE AN ABSTRACT YET, JUST AN IDEA: "Be a hero? I'd rather sleep." Talk about hero culture, firefighting, and why boring is better. It lets us focus on the things that matter (customers, interactions value) rather than worry about the technology.
