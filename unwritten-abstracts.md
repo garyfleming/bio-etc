@@ -30,15 +30,6 @@ Test-Driven Development, or TDD, is one of the great technical religious wars. O
 
 During this session, you'll learn a bit more about why TDD works, why it can be tricky, and when not to use it. With practice and some simple rules, you'll see how to write code that is works, is clearer, and supports future changes more readily.
 
-Short bio: Gary is a software craftsmanship and agile consultant, with years of experience trying to help people write better code in a better way. Whether it's helping large companies deal with Continuous Delivery, or running local meetups, Gary spends a great deal of this time thinking about and communicating the benefits of doing things the right way first time.
-
----
-
-## The Board Whisperer
-
-At this point in Agile's lifecycle, many teams have switched to using a Kanban Board. Some are simple, three-column trackers; others are considerably more involved. Yet, many teams don't know how to stop for a moment and _listen_ to their board. It's gently trying to nudge them about the changes that it needs to make them a better team. Come along and learn how we can go from simple to just complicated enough, smoothly.
-
-In a new team, we started with a three-column standard to something that fits us perfectly. Our board won't work for you, but by learning how, when, and why we made our changes, you can make a board that works perfectly for your team too. See the patterns and anti-patterns; listen to the change that your board is crying out for; and enjoy the results.
 
 ---
 
@@ -56,4 +47,14 @@ NOT AN ABSTRACT YET, JUST AN IDEA: Guided Conversations helped us have effective
 
 # The Sleeping Hero
 
-NOTE AN ABSTRACT YET, JUST AN IDEA: "Be a hero? I'd rather sleep." Talk about hero culture, firefighting, and why boring is better. It lets us focus on the things that matter (customers, interactions value) rather than worry about the technology.
+NOT AN ABSTRACT YET, JUST AN IDEA: "Be a hero? I'd rather sleep." Talk about hero culture, firefighting, and why boring is better. It lets us focus on the things that matter (customers, interactions value) rather than worry about the technology.
+
+----
+
+# Storytelling
+
+NOT AN ABSTRACT YET, JUST AN IDEA: I’ve often thought we should train new devs in the art of storytelling.
+
+Stories have an arc. Scenes have a purpose. Waste is edited out.
+
+From this tweet: https://twitter.com/garyfleming/status/962805233318596608
