@@ -9,3 +9,9 @@ As an agile coach focussing on technical practices and software crafting, Gary F
 I’ve spoken extensively at local meetups, as well as national and international conferences. Some videos:
 
 Kitchen Kanban: A Fable: https://vimeo.com/191395391 Deployment is Not Release: https://vimeo.com/240123238
+
+---
+
+100 word pitch:
+
+I've been developing software since I was 8 years old, and love helping people find and explore better ways of building software. As well as showing people technical techniques like TDD, BDD, Hexagonal Architecture, and Mob Programming, I also like to help teams work better together. Using methods pulled from the Agile and Lean space, I try to find where teams are finding their work and collaborations painful and try to ease that pain. 
