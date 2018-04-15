@@ -30,6 +30,67 @@ Test-Driven Development, or TDD, is one of the great technical religious wars. O
 
 During this session, you'll learn a bit more about why TDD works, why it can be tricky, and when not to use it. With practice and some simple rules, you'll see how to write code that is works, is clearer, and supports future changes more readily.
 
+---
+
+## Quality Beyond Testing
+
+Statement (100 chars): Only testing after development drives dysfunction. Let's get quality earlier and collaboratively.
+
+Key learnings:
+* Learn how to change your teams process to get testers involved earlier.
+* Explore Example Mapping as a technique for getting questions of quality asked earlier.
+* See how we can go beyond our tools to have meaningful conversations about doing better.
+
+Testing is an afterthought in far too many teams. By only involving testers after software has already been developed, we lose the opportunity to have valuable insights into what might go wrong or to explore areas that developers and product owners have yet to consider.
+
+Moreover, in a Continuous Delivery world, this is simply no longer viable: we need quality in upfront and throughout our work. We no longer have time to find bugs later and redevelop.
+
+We need quality beyond testing. We need testers involved throughout the process.
+
+In this talk, I'll show you how to break out of the test column, and provide you with tools to use (like Example Mapping) in order to work better with your entire team. Through collaboration, communication, and exploration, I'll show you how to help your team from the very beginning of development, not just at the end.
+
+---
+
+
+
+---
+
+{FYI: this is the same talk as Quality Beyond Testing, but with a different abstract. Let's see which works.}
+
+## Being A Better Amigo
+
+100 Chars: Three amigos is a good technique for test collaborating sooner. We can do better. We can make change
+
+Learnings:
+
+* Learn to be an effective amigo
+* Figure out how you can be the star of your tea by figuring out problems sooner
+* Use your inquisitive nature to push you and your team to new levels
+
+Three amigos. A technique created years ago to help testers have more of a voice in teams, earlier. Sometimes, though, it doesn't feel like that actually works. Why is that?
+
+It's increasingly important, as delivery speed increases due to continuous integration and continuous delivery, that we improve quality, and we do so earlier in the process. Common understanding, common issues, common insight. How do we use the test mindset to break down these key problems?
+
+Let me help you see the common dysfunctions of the three amigos sessions, and offer some advice on how we might improve.
+
+---
+
+## Example Mapping -- A Guide
+
+100 Chars: Example Mapping is a fantastic tool for collaborating towards a shared understanding of our work.
+
+We often struggle when it comes to figuring out exactly how we should work together, as testers, developers, business analysts, and product owners.
+
+Three Amigos gets thrown around a lot as an idea: one to build, one to enquire, one to specify. But how do we actually run a three amigos session so that everyone gets their ideas across and we gain genuine shared understanding? That's tricky.
+
+During this session, you'll learn to use Example Mapping; a simple, easy, and quick technique to bring everyone together for effective results.
+
+---
+
+## Collaboration Techniques with Example Mapping
+
+Work linearly (product owner, dev, test)
+Then work collaboratively (example mapping)
 
 ---
 
