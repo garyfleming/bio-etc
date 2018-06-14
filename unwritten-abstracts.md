@@ -110,7 +110,15 @@ NOT AN ABSTRACT YET, JUST AN IDEA: Guided Conversations helped us have effective
 
 NOT AN ABSTRACT YET, JUST AN IDEA: "Be a hero? I'd rather sleep." Talk about hero culture, firefighting, and why boring is better. It lets us focus on the things that matter (customers, interactions value) rather than worry about the technology.
 
-----
+---
+
+## Kicking Away The Crutches of Agile
+
+NOT AN ABSTRACT YET, JUST AN IDEA: Cadence is always a crutch. Delve into why and better alternatives. Frameworks are usually a crutch. Make us feel better that we have a method to use, but often before we know why.
+
+“Someone sold them the training wheels, but they don’t have the bike yet” - Kyle bremner.
+
+---
 
 # Storytelling
 
