@@ -23,6 +23,7 @@ VIDEOS:
 From Lean Agile Scotland:
 Deployment is not Release: https://vimeo.com/240123238
 Kitchen Kanban: A Fable: https://vimeo.com/191395391
+The Board Whisperer: https://vimeo.com/299161275
 
 From DotNetSheff:
 APIs on the Scale of Decades: https://youtu.be/F5kXwWPg-Uw
@@ -30,3 +31,6 @@ APIs on the Scale of Decades: https://youtu.be/F5kXwWPg-Uw
 From Lean Agile Glasgow:
 The Wedding Ritual: https://youtu.be/dgMHUszjpUU
 Feature Toggling: https://youtu.be/wy_gAC7tkeM
+
+From Agile Cambridge:
+The Board Whisperer: https://vimeo.com/293194017/44e0ac75aa
