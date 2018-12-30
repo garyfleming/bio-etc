@@ -32,7 +32,7 @@ During this session, you'll learn a bit more about why TDD works, why it can be 
 
 ---
 
-## Quality Beyond Testing
+## Quality Beyond Testing / Continuous Testing
 
 Statement (100 chars): Only testing after development drives dysfunction. Let's get quality earlier and collaboratively.
 
@@ -47,7 +47,7 @@ Moreover, in a Continuous Delivery world, this is simply no longer viable: we ne
 
 We need quality beyond testing. We need testers involved throughout the process.
 
-In this talk, I'll show you how to break out of the test column, and provide you with tools to use (like Example Mapping) in order to work better with your entire team. Through collaboration, communication, and exploration, I'll show you how to help your team from the very beginning of development, not just at the end.
+In this talk, I'll show you how to break out of the test column, and provide you with tools to use (like Example Mapping and Feature Toggling) in order to work better with your entire team. Through collaboration, communication, and exploration, I'll show you how to help your team from the very beginning of development, not just at the end.
 
 ---
 
@@ -64,7 +64,7 @@ In this talk, I'll show you how to break out of the test column, and provide you
 Learnings:
 
 * Learn to be an effective amigo
-* Figure out how you can be the star of your tea by figuring out problems sooner
+* Figure out how you can be the star of your team by figuring out problems sooner
 * Use your inquisitive nature to push you and your team to new levels
 
 Three amigos. A technique created years ago to help testers have more of a voice in teams, earlier. Sometimes, though, it doesn't feel like that actually works. Why is that?
