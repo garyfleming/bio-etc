@@ -10,11 +10,21 @@ I’ve spoken extensively at local meetups, as well as national and internationa
 
 Kitchen Kanban: A Fable: https://vimeo.com/191395391 Deployment is Not Release: https://vimeo.com/240123238
 
+
+---
+
+As an agile dev coach (who consults), I'm lucky enough to work with a number of different teams across several organisations. I've seen okay teams become good, and good teams become great. When I speak, I get to draw on the experiences and observations that got those teams to those places.
+More importantly, because some of the teams have gotten very good, I've been able to get them to try some experimental and advanced practices: things which I've never seen anyone else talk or write about. I'd like to help others learn these practices, but also avoid the pitfalls that come with going first.
+
 ---
 
 100 word pitch:
 
 I've been developing software since I was 8 years old, and love helping people find and explore better ways of building software. As well as showing people technical techniques like TDD, BDD, Hexagonal Architecture, and Mob Programming, I also like to help teams work better together. Using methods pulled from the Agile and Lean space, I try to find where teams are finding their work and collaborations painful and try to ease that pain.
+
+100 word pitch take 2:
+
+I've been trying to improve technical practice for a long time, pushing at weird ideas to see what works. Through my the meetup I founded (CodeCraft), I've enjoyed running events on some great topics like Mob Programming and Guided Conversations. As well as teaching people technical techniques like TDD, BDD, and Hexagonal Architecture, I also like to help teams work better together. Using methods pulled from the Agile and Lean space, I try to find where teams are finding their work and collaborations painful and try to ease that pain.
 
 ---
 

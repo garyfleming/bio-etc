@@ -119,3 +119,25 @@ NOT AN ABSTRACT YET, JUST AN IDEA: I’ve often thought we should train new devs
 Stories have an arc. Scenes have a purpose. Waste is edited out.
 
 From this tweet: https://twitter.com/garyfleming/status/962805233318596608
+
+---
+
+# Slicing over Scaling
+
+Focus on breaking down dependencies rather than creating rigid structures. Self-organising teams with autonomy/mastery/purpose are better than teams told what to do. City metaphor? You can create a tonne of structure around building a skyscraper, but if you want to build a city then you need to radically drop structure. Centrally planned cities are mostly ghost towns (in China). You don’t get a London, Barcelona, Glasgow (character) by “scaling”
+
+---
+
+# DUMP OF IDEAS
+
+THIS IS NOT AN ABSTRACT. THIS IS A LIST OF UNFINISHED AND LIKELY BAD IDEAS.
+
+* CI/CD: A Developers approach - Continuous and integration explained, feature toggles, branch by abstraction
+* What Hurts? Pain driven process
+* Whole Values (and maybe CHECKS)
+* DDD and bounded contexts
+* Causes of Crunch time
+* Why I stopped using mock libraries - hiding code, anti-patterns in big interfaces being hidden, harder to come back to later
+* Designing and testing modular code - reframing of Hexagonal Architecture talk
+* "I Don't Care" - Story about Rounding up/down but BA had signed spec. Penn and Teller. Dispassion talk. Picking a less emotionally charged phrase than "I don't care".
+* Shallow work - make work more interruptible and less deep through slicing, exploration, TDD, bdd. Having frequent conversations is better than having headphones on all the time
