@@ -32,7 +32,7 @@ During this session, you'll learn a bit more about why TDD works, why it can be 
 
 ---
 
-## Quality Beyond Testing / Continuous Testing / From
+## Continuous Testing
 
 Statement (100 chars): Only testing after development drives dysfunction. Let's get quality earlier and collaboratively. Let's get rid of the "Test" column.
 
@@ -50,29 +50,7 @@ We need quality beyond testing. We need testers involved throughout the process.
 
 In this talk, I'll show you how to break out of the test column, and provide you with tools to use (like Example Mapping) in order to work better with your entire team. Through collaboration, communication, and exploration, I'll show you how to help your team from the very beginning of development, not just at the end.
 
----
 
-
-
----
-
-{FYI: this is the same talk as Quality Beyond Testing, but with a different abstract. Let's see which works.}
-
-## Being A Better Amigo
-
-100 Chars: Three amigos is a good technique for test collaborating sooner. We can do better. We can make change
-
-Learnings:
-
-* Learn to be an effective amigo
-* Figure out how you can be the star of your team by figuring out problems sooner
-* Use your inquisitive nature to push you and your team to new levels
-
-Three amigos. A technique created years ago to help testers have more of a voice in teams, earlier. Sometimes, though, it doesn't feel like that actually works. Why is that?
-
-It's increasingly important, as delivery speed increases due to continuous integration and continuous delivery, that we improve quality, and we do so earlier in the process. Common understanding, common issues, common insight. How do we use the test mindset to break down these key problems?
-
-Let me help you see the common dysfunctions of the three amigos sessions, and offer some advice on how we might improve.
 
 ---
 
@@ -136,6 +114,43 @@ From this tweet: https://twitter.com/garyfleming/status/962805233318596608
 # Slicing over Scaling
 
 Focus on breaking down dependencies rather than creating rigid structures. Self-organising teams with autonomy/mastery/purpose are better than teams told what to do. City metaphor? You can create a tonne of structure around building a skyscraper, but if you want to build a city then you need to radically drop structure. Centrally planned cities are mostly ghost towns (in China). You don’t get a London, Barcelona, Glasgow (character) by “scaling”
+
+---
+
+Non-linear visualisation of features and their possible futures until they’re removed. Continuous testing is involved. (If a talk, an interesting frame might be to open with the ending, then loop back round to it). This tweet thread and tree of replies explains more: https://twitter.com/garyfleming/status/1179112032630693888
+
+---
+
+CoP talk: use to drive experimentation. Learn something? Try it elsewhere. Questions raised/puzzles for the org? Get different CoP members to do different safe to fail experiments. Report back.
+
+---
+
+# Why Continuous Deployment is a Product Owner's Best Friend.
+
+Continuous Integration and Continuous Deployment are often seen as largely technical practices, but they're not. They're social practices, hiding themselves in technology. They product practices, that have gotten a little obscured. They're management practices, to which we don't pay enough attention.
+
+In this session, you'll learn:
+
+* Enough about CI/CD to make better decisions,
+* How Continuous Deployment will turbocharge your product management,
+* Why your developers will thank you for embracing CI/CD.
+
+
+---
+
+# Guided Conversations: An Inclusive Format For Communities and Teams
+
+Communities of Practice, Meetups, and teams all have something in common: they need ways of sharing information between disparate individuals. Too informal and the conversation can become unfocussed. Too formal and participants are less likely to feel involved (and organisers become too burdened).
+
+Guided Conversations are a great middle-ground.
+
+Guided Conversations are a lightweight, quick, focussed format for having a conversation on a particular topic. They're easy to learn, easy to run, and easy to repeat as needed.
+
+You'll learn:
+
+* The basics of the Guided Conversation format,
+* Some quick facilitation techniques for making them smooth,
+* A chance to practice with a prepared question set.
 
 ---
 
