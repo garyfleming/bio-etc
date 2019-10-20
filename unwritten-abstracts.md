@@ -74,6 +74,21 @@ Three Amigos gets thrown around a lot as an idea: one to build, one to enquire, 
 
 During this session, you'll learn to use Example Mapping; a simple and quick technique for effective results.
 
+### Session Outline.
+
+The session usually runs as follows:
+
+* A brief (interactive) conversation about shared understanding and alignment in teams, and the problems we see when they don't exist. (5-10 minutes)
+* A very brief introduction to user stories, (3-5 minutes)
+* An introduction to example mapping and how it's used (Stories, Rules, Examples, Questions) (5 minutes)
+* In groups, get people to come up with their first examples for a given Rule. (10-15 minutes)
+* As a whole, discuss what worked and what felt weird. Feedback. (3-5 minutes)
+* In the same groups, get people to generate new Rules, Stories, and Questions, as well as examples. Encourage them to try new Example formats. This ends in a completed Map. (15 minutes).
+* As a whole, discuss the characteristics of a Map (too big, too many questions etc). (10 minutes)
+* Have half the people switch to another group, to see how they can quickly share knowledge, and question the map. (10 minutes.)
+* Conclusion and questions (until done.)
+
+
 ---
 
 ## Collaboration Techniques with Example Mapping
