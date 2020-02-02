@@ -140,15 +140,35 @@ CoP talk: use to drive experimentation. Learn something? Try it elsewhere. Quest
 
 ---
 
-# Why Continuous Deployment is a Product Owner's Best Friend.
+# Why Continuous Delivery is a Product Owner's Best Friend.
 
-Continuous Integration and Continuous Deployment are often seen as largely technical practices, but they're not. They're social practices, hiding themselves in technology. They product practices, that have gotten a little obscured. They're management practices, to which we don't pay enough attention.
+## Short
+
+Want to be the best Product Owner you can be? The best trick might surprise...
+
+Continuous Integration and Continuous Delivery are often seen as largely technical practices, but they're not. They're social practices, hiding themselves in technology. They are product practices, that have gotten a little obscured. They are management practices, to which we don't pay enough attention.
 
 In this session, you'll learn:
 
 * Enough about CI/CD to make better decisions,
 * How Continuous Deployment will turbocharge your product management,
 * Why your developers will thank you for embracing CI/CD.
+
+## Longer
+
+Want to be the best Product Owner you can be? Do you want to support your Product Owner so they can truly champion the rest of your team? Do you want to satisfy customers, quickly and easily?
+
+Continuous Integration and Continuous Delivery are often seen as largely technical practices, but they're not. They're social practices, hiding themselves in technology. They are product practices, that have gotten a little obscured. They are management practices, to which we don't pay enough attention.
+
+Through engaging with these and related practices, we can build better software in a better, more Agile way. We can create better products on which we iterate faster, satisfying more of our customers easily, and with a happier team to boot. Who wouldn't want that? Come and find out how.
+
+## Possible flow
+
+* Setting up a scenario of dissatisfied customers, slow releases, overworked teams, and overwhelmed product owners who can't seem to deliver at pace.
+* Introducing a few ideas around metrics like Lead Time, Cycle Time etc
+* Introducing ideas from Continuous Delivery and Integration, at a fairly low-level
+* Showing how these practices can move the metrics
+* Going deeper (and drawing on experience) to show how to make Continuous Delivery tools, like Feature Toggles, useful and usable for the less technically inclined product owners
 
 
 ---
@@ -166,6 +186,20 @@ You'll learn:
 * The basics of the Guided Conversation format,
 * Some quick facilitation techniques for making them smooth,
 * A chance to practice with a prepared question set.
+
+---
+
+## WORKING TITLE: The Effective but Lazy Meetup/Guided Conversations
+
+JUST AN IDEA: Guided Conversations helped us have effective meetups that were easy to organise and lazy. Talk about Guided Conversations: the where they came from, why, how they work, strengths, weaknesses etc. Maybe talk about other things we've learned to about running meetups and organisation.
+
+Steal from the GC one above too.
+
+### Abstract
+
+Communities of Practice, Meetups, and teams all have something in common: they need ways of sharing information between disparate individuals. Too informal and the meetup can become unfocussed. Too formal and participants are less likely to feel involved (and organisers become too burdened).
+
+We'll show you some great tips and techniques to have better meetups and communities, without it becoming too much.
 
 ---
 
