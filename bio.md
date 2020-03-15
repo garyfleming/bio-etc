@@ -17,8 +17,8 @@ Kitchen Kanban: A Fable: https://vimeo.com/191395391 Deployment is Not Release: 
 
 ---
 
-As an agile dev coach (who consults), I'm lucky enough to work with a number of different teams across several organisations. I've seen okay teams become good, and good teams become great. When I speak, I get to draw on the experiences and observations that got those teams to those places.
-More importantly, because some of the teams have gotten very good, I've been able to get them to try some experimental and advanced practices: things which I've never seen anyone else talk or write about. I'd like to help others learn these practices, but also avoid the pitfalls that come with going first.
+As a technical coach, I'm lucky enough to work with a number of different teams across several organisations. I've seen okay teams become good, and good teams become great. When I speak, I get to draw on the experiences and observations that got those teams to those places.
+Importantly, because some of the teams have gotten very good, I've been able to get them to try some experimental and advanced practices: things which I've never seen anyone else talk or write about. I'd like to help others learn these practices, but also avoid the pitfalls that come with going first.
 
 ---
 

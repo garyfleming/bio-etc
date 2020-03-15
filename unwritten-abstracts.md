@@ -199,6 +199,40 @@ You'll learn:
 * Some quick facilitation techniques for making them smooth,
 * A chance to practice with a prepared question set.
 
+
+---
+
+# Better Stories with User Story Mapping and Example Mapping
+
+## Main Statement
+
+Our requirements are rarely well understand or well specified. We'll show you how to change that using two powerful techniques: User Story Mapping and Example Mapping.
+
+## Key Outcomes
+
+* You'll understand why requirements are generally not good enough,
+* You'll learn how to break them down into better user stories at a high-level,
+* You'll see how to turn them into great, well-specified pieces of work at a low-level,
+
+
+## description
+
+The workshop will be:
+
+* 5-10 minutes of interactive discussion about user stories, requirements, etc and problems we've faced when trying to test or implement them.
+* 50 minutes or so will be spent exploring User Story Mapping using an interactive demonstration where participants will have to describe an every day task in detail.
+* We'll have a short retrospective (5 minutes) on what we've learned so far.
+* 45-50 minutes will then be spent breaking down some of our User Story Map using a technique called Example Mapping.
+* The remaining 5-10 minutes will be used flexibly to cover anything the attendees would like to go a little deeper on.
+
+## Abstract
+
+We often struggle when it comes to figuring out exactly how we should work together, as testers, developers, business analysts, and product owners. We struggle to get clear requirements and vision.
+
+Three Amigos gets thrown around a lot as an idea: one to build, one to enquire, one to specify. But how do we actually run a three amigos session so that everyone gets their ideas across and we gain genuine shared understanding? How do we know we've covered everything we need? That's tricky.
+
+During this session, you'll learn to use User Story Mapping and Example Mapping; simple, easy, and quick techniques to bring everyone together for effective results.
+
 ---
 
 ## WORKING TITLE: The Effective but Lazy Meetup/Guided Conversations
