@@ -264,3 +264,4 @@ THIS IS NOT AN ABSTRACT. THIS IS A LIST OF UNFINISHED AND LIKELY BAD IDEAS.
 * Shallow work - make work more interruptible and less deep through slicing, exploration, TDD, bdd. Having frequent conversations is better than having headphones on all the time
 * Lightning talk idea: scaling, attrition and the eternal September. Relating the idea that if you scaled beyond a certain point enough people will leave and join each year you’ll see the Wternal September kick in. Neeed to counteract with deliberate culture induction and training.
 * Protocol/boundaries talk. This tweet but applied to function definitons i.e. function definitions tell you that you have a function and a little about it, but miss huge chunks of behaviour: https://twitter.com/doriantaylor/status/1540739480612614145
+* Cynefin@and best practice for software engineering. Acting as if everything is on fire when it’s not etc.
