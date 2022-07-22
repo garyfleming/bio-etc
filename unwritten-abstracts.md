@@ -262,3 +262,4 @@ THIS IS NOT AN ABSTRACT. THIS IS A LIST OF UNFINISHED AND LIKELY BAD IDEAS.
 * Designing and testing modular code - reframing of Hexagonal Architecture talk
 * "I Don't Care" - Story about Rounding up/down but BA had signed spec. Penn and Teller. Dispassion talk. Picking a less emotionally charged phrase than "I don't care".
 * Shallow work - make work more interruptible and less deep through slicing, exploration, TDD, bdd. Having frequent conversations is better than having headphones on all the time
+* Lightning talk idea: scaling, attrition and the eternal September. Relating the idea that if you scaled beyond a certain point enough people will leave and join each year you’ll see the Wternal September kick in. Neeed to counteract with deliberate culture induction and training.
