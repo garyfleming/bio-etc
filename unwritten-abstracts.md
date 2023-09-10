@@ -6,6 +6,16 @@ talk. If they've become full talks, they likely appear as their own repos.
 Some have appeared in other forms, some have changed into other things, and the list is FAR from complete. There are
 at least a dozen talks for which I've got an idea but haven't progressed them as far as needing an abstract for them.
 
+---
+
+## Information-Drive Leadership
+
+How to bring info to you to ensure you're informed, the prupose of each, how to make sense of the info, the danagers of each approach. Tangential: using techniques like Diataxis to help shape info in and out of your org.
+
+- Individual
+- Team
+- Org
+- External (RSS, newsletters)
 
 
 ---
