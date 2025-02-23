@@ -6,7 +6,7 @@ As an agile coach focussing on technical practices and software crafting, Gary F
 
 ---
 
-Gary is an agile coach, software crafter, and systems thinker. His main hobby is to try and help companies to build better software in better ways. Sometimes this is by helping them with the messy human communication side of agile, sometimes its helping them reflect on their processes, and sometimes it's through teaching better software crafting practices - usually some of each. Coaching, mentoring, teaching, and showing; whatever helps in the context. You'll find him at various local meetups and international conferences trying to both share what he knows and learn from his peers.
+Gary is an engineering manager, software crafter, and systems thinker. His main hobby is to try and help companies to build better software in better ways. Sometimes this is by helping them with the messy human communication side of agile, sometimes its helping them reflect on their processes, and sometimes it's through teaching better software crafting practices - usually some of each. Coaching, mentoring, teaching, and showing; whatever helps in the context. You'll find him at various local meetups and international conferences trying to both share what he knows and learn from his peers.
 
 ---
 
